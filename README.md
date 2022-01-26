@@ -1,1 +1,1 @@
-# Pirmais
+# Mans pirmais repozetorijs
